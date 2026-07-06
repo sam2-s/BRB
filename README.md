@@ -1,4 +1,4 @@
-# BRB Hotels — Bell Road Baazigar
+# BRB Hostels — Bell Road Baazigar
 
 A complete **Hostel Management System** built with modern web technologies. Manage rooms, students, fee payments, complaints, and visitor records — all from one beautiful dashboard.
 
