@@ -204,5 +204,5 @@ MIT License — feel free to use this project for your hostel, PG, or hotel mana
 ---
 
 <p align="center">
-  Built with ❤️ by <strong>Sam Kan</strong>
+  Built with ❤️ by <strong>Sam Kann</strong>
 </p>
