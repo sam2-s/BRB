@@ -18,7 +18,7 @@ A complete **Hostel Management System** built with modern web technologies. Mana
 - Real-time stats: total students, occupancy rate, revenue, pending fees 
 - Room type breakdown with progress bars
 - Recent student registrations
-- Latest complaints feed 
+- Latest complaints feed  
 
 ### 🛏️ Room  Allocation
 - Add, edit, delete rooms
