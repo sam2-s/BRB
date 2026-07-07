@@ -75,7 +75,7 @@ A complete **Hostel Management System** built with modern web technologies. Mana
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) 18+ or [Bun](https://bun.sh/)
-- npm, yarn, or bun
+- npm, yarn, or bun 
 
 ### Installation
 
