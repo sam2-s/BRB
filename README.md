@@ -14,7 +14,7 @@ A complete **Hostel Management System** built with modern web technologies. Mana
 
 ## Features
 
-### 📊 Dashboard
+### 📊  Dashboard
 - Real-time stats: total students, occupancy rate, revenue, pending fees
 - Room type breakdown with progress bars
 - Recent student registrations
