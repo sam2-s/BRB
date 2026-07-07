@@ -1,5 +1,5 @@
 # BRB Hostels — Bell Road Baazigar
- 
+    
 A complete **Hostel Management System** built with modern web technologies. Manage rooms, students, fee payments, complaints, and visitor records — all from one beautiful dashboard.
 
 > **BRB** stands for **Bell Road Baazigar**
@@ -20,9 +20,9 @@ A complete **Hostel Management System** built with modern web technologies. Mana
 - Recent student registrations
 - Latest complaints feed
 
-### 🛏️ Room Allocation
+### 🛏️ Room  Allocation
 - Add, edit, delete rooms
-- Room cards with status (Available / Occupied / Maintenance)
+- Room cards with status (Available / Occupied /   Maintenance)
 - Floor-wise organization (Standard, Deluxe, Premium)
 - View room details with current occupants
 - Automatic status updates when students are assigned/removed
