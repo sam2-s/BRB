@@ -10,7 +10,7 @@ A complete **Hostel Management System** built with modern web technologies. Mana
 ![Prisma](https://img.shields.io/badge/Prisma-6-2d3748?logo=prisma)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-latest-black)
 
----
+--- 
 
 ## Features
 
